@@ -1,0 +1,7 @@
+{
+  "name": "RecruitPrep",
+  "description": "An immersive AI-powered platform for practicing group discussions, interviews, and presentations with realistic AI agents and real-time feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
